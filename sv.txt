@@ -1,0 +1,14 @@
+#: locale=sv
+
+## Media
+
+### Title
+album_146C784E_00EC_CEFC_4163_663961354475.label = Photo Album R10052
+album_146C784E_00EC_CEFC_4163_663961354475_0.label = R10052
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
